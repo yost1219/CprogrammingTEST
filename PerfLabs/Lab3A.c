@@ -17,7 +17,8 @@ int main (void)
     age [11] = 34;
     age [12] = 24;
 
-    char quote [] = {"The\n only\n thing\n necessary\n for\n the\n triumph\n of\n evil\n is\n for\n good\n men\n to\n do\n nothing.\n ~Edmund Burke"};
+    char quote [256] = {"The\n only\n thing\n necessary\n for\n the\n triumph\n of\n evil\n is\n for\n good\n men\n to\n do\n nothing.\n ~Edmund Burke"};
+    quote [255] = 0;
 
     printf ("The instructor's age is %d. \n", age [0]);
     printf ("The students' ages are %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, %d, and %d. \n", 
