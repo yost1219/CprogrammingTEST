@@ -1,3 +1,5 @@
+// decl/init array, print specific cell/position of array
+
 #include <stdio.h>
 
 int main (void)

@@ -1,3 +1,5 @@
+// fgets (input, sizeof(input), stdin) and puts (input) to receive input and spit out output
+
 /*
 Name: Yost
 Project: Demo 4.5-1

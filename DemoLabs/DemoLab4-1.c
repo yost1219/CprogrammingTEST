@@ -1,3 +1,5 @@
+// getchar and putchar, receiving user input and displaying it back (output)
+
 #include <stdio.h>
 
 int main (void)

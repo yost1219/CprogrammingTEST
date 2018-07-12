@@ -1,3 +1,5 @@
+// arrays, print specific array cell, while loop
+
 #include <stdio.h>
 
 int main (void)

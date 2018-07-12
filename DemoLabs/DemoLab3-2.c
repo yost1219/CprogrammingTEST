@@ -1,3 +1,5 @@
+// declare/zeroize array, assign fields in array, display/print array
+
 #include <stdio.h>
 
 int main (void)

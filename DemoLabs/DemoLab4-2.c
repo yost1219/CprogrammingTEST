@@ -1,3 +1,6 @@
+// getc(stdin) and putc(input, stout), receiving user input and displaying it back (output)
+
+
 #include <stdio.h>
 
 int main (void)
