@@ -41,7 +41,7 @@ int main (void)
     char middle[100] = {0};
     char last[100] = {0};
     printf ("Provide your first, middle, and last names, separated by tabs. \n");
-    scanf ("%s\t%s\t%s", &first, &middle, &last); 
+    scanf ("%99s\t%99s\t%99s", &first, &middle, &last); 
     
     //Part 2
 
