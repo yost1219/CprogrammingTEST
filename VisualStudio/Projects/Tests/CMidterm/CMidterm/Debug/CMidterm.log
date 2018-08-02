@@ -1,0 +1,6 @@
+﻿  MidtermTestCodev1.c
+c:\users\student\desktop\githubuploads\visual studio\projects\tests\cmidterm\cmidterm\midtermtestcodev1.c(271): warning C4090: 'function': different 'const' qualifiers
+c:\users\student\desktop\githubuploads\visual studio\projects\tests\cmidterm\cmidterm\midtermtestcodev1.c(637): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+c:\users\student\desktop\githubuploads\visual studio\projects\tests\cmidterm\cmidterm\midtermtestcodev1.c(637): warning C4024: 'decode_string': different types for formal and actual parameter 3
+c:\users\student\desktop\githubuploads\visual studio\projects\tests\cmidterm\cmidterm\midtermtestcodev1.c(608): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  CMidterm.vcxproj -> C:\Users\Student\Desktop\gitHubUploads\Visual Studio\Projects\Tests\CMidterm\Debug\CMidterm.exe
