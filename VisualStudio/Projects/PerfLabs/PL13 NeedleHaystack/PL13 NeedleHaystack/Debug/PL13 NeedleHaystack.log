@@ -1,0 +1,6 @@
+﻿  haystack.c
+c:\users\student\source\repos\visual studio\projects\perflabs\pl13 needlehaystack\pl13 needlehaystack\haystack.c(28): warning C4010: single-line comment contains line-continuation character
+c:\users\student\source\repos\visual studio\projects\perflabs\pl13 needlehaystack\pl13 needlehaystack\haystack.c(72): warning C4010: single-line comment contains line-continuation character
+c:\users\student\source\repos\visual studio\projects\perflabs\pl13 needlehaystack\pl13 needlehaystack\haystack.c(73): warning C4010: single-line comment contains line-continuation character
+c:\users\student\source\repos\visual studio\projects\perflabs\pl13 needlehaystack\pl13 needlehaystack\haystack.c(77): warning C4010: single-line comment contains line-continuation character
+  PL13 NeedleHaystack.vcxproj -> C:\Users\Student\Source\Repos\Visual Studio\Projects\PerfLabs\PL13 NeedleHaystack\Debug\PL13 NeedleHaystack.exe
