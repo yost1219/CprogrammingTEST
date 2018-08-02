@@ -1,0 +1,3 @@
+﻿  review.c
+c:\users\student\source\repos\visual studio\projects\perflabs\review\review\review.c(28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  review.vcxproj -> C:\Users\Student\Source\Repos\Visual Studio\Projects\PerfLabs\review\Debug\review.exe
